@@ -22,7 +22,7 @@ public void setup()
 {
 	
   background(0);
-  img = loadImage("Kappa.png");
+  img = loadImage("data/Kappa.png");
 }
 public void draw()
 {

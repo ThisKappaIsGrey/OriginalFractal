@@ -6,7 +6,7 @@ public void setup()
 {
 	size(500, 500);
   background(0);
-  img = loadImage("Kappa.png");
+  img = loadImage("data/Kappa.png");
 }
 public void draw()
 {
